@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ &apos;server&apos; を &apos;client/src&apos; に移動&#x0D;&#x0A;- オリジナル・プロジェクト : &apos;ev3_server&apos;&#x0D;&#x0A;- ターゲット要素 : &apos;client/src&apos;&#x0D;&#x0A;- オリジナル要素: &apos;ev3_server/src/server&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="パッケージの移動" destination="=client/src" element1="/src&lt;server" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1677466281849" version="1.0"/>
+</session>
